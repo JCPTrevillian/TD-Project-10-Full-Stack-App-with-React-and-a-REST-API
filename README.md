@@ -14,6 +14,9 @@ To complete this project, I used my knowledge of React, JSX, React Router, React
 
 This is the second of a two-part capstone project of a fully functional Javascript full stack application (front-end client and back-end server). 
 
+
+
+
 To run: 
 1. download project
 2. open terminal, navigate to api/
