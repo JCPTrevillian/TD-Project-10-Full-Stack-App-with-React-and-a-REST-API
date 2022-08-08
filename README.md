@@ -14,3 +14,18 @@ To complete this project, I used my knowledge of React, JSX, React Router, React
 
 This is the second of a two-part capstone project of a fully functional Javascript full stack application (front-end client and back-end server). 
 
+
+
+
+To run: 
+1. download project
+2. open terminal, navigate to api/
+3. npm install
+5. npm run seed
+6. npm start
+
+**Open a separate terminal** 
+1. navigate to client/
+2. npm install
+3. npm start
+4. your browser should open to 'localhost:3000/
