@@ -25,7 +25,7 @@ To run:
 6. npm start
 
 **Open a separate terminal** 
-1. navigate to client/
+1. navigate to client
 2. npm install
 3. npm start
-4. your browser should open to 'localhost:3000/
+4. your browser should open to 'localhost:3000/'
